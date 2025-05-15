@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Garthigan
 
-<!--
-**Garthigan/Garthigan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an Electrical Engineering undergraduate at the University of Moratuwa, focusing on **Control, Automation, and Artificial Intelligence**.
 
-Here are some ideas to get you started:
+💻 I’m passionate about:
+- 🤖 Robotics & Embedded Systems
+- 📊 Data Science & Machine Learning
+- 🌐 Full-stack Web Development
+- 🧠 Deep Learning for Computer Vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently:
+- 🎓 Final year student working on cutting-edge robotics research
+- 💡 Building projects with React, Python, and NVIDIA Jetson
+- 🧪 Exploring the intersection of AI & Embedded Systems
+
+🛠️ Technologies I work with:
+```bash
+Languages: Python, C/C++, JavaScript, HTML/CSS, SQL  
+Frameworks: React, Flask, TensorFlow, PyTorch  
+Tools: Git, Docker, Arduino, OpenCV, VS Code  
+Hardware: Jetson Nano, Raspberry Pi, ESP32, Arduino
