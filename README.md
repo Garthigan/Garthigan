@@ -19,7 +19,7 @@ Languages: Python, C/C++, JavaScript, HTML/CSS, SQL
 Frameworks: React, Flask, TensorFlow, PyTorch  
 Tools: Git, Docker, Arduino, OpenCV, VS Code  
 Hardware: Jetson Nano, Raspberry Pi, ESP32, Arduino
-
+```
 
 📈 My GitHub Stats  
 ![Garthigan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Garthigan&show_icons=true&theme=tokyonight&count_private=true)
