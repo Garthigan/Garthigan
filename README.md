@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Garthigan
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+I'm+Garthigan;Electrical+Engineering+Student;Robotics+%7C+AI+%7C+Embedded+Systems" alt="Typing SVG" />
+</p>
+
+---
 
 🎓 I'm an Electrical Engineering undergraduate at the University of Moratuwa, focusing on **Control, Automation, and Artificial Intelligence**.
 
