@@ -25,9 +25,6 @@ Tools: Git, Docker, Arduino, OpenCV, VS Code
 Hardware: Jetson Nano, Raspberry Pi, ESP32, Arduino
 ```
 
-📈 My GitHub Stats  
-![Garthigan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Garthigan&show_icons=true&theme=tokyonight&count_private=true)
-
 ## 📫 Reach Me
 
 - 📧 Email: [garthigankumarasamy11@gmail.com](mailto:garthigankumarasamy11@gmail.com)  
