@@ -4,13 +4,14 @@
 
 ---
 
-🎓 I'm an Electrical Engineering undergraduate at the University of Moratuwa, focusing on **Control, Automation, and Artificial Intelligence**.
+🎓 I'm an Electrical Engineering undergraduate at the University of Moratuwa, focusing on **Artificial Intelligence and Machine Learning**.
 
 💻 I’m passionate about:
+- 🧠 Deep Learning for Computer Vision
 - 🤖 Robotics & Embedded Systems
 - 📊 Data Science & Machine Learning
 - 🌐 Full-stack Web Development
-- 🧠 Deep Learning for Computer Vision
+
 
 🌱 Currently:
 - 🎓 Final year student working on cutting-edge robotics research
