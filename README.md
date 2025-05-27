@@ -21,7 +21,7 @@
 🛠️ Technologies I work with:
 ```bash
 Languages: Python, C/C++, JavaScript, HTML/CSS, SQL  
-Frameworks: React, Flask, TensorFlow, PyTorch  
+Frameworks: React, Flask, TensorFlow, PyTorch, Spring  
 Tools: Git, Docker, Arduino, OpenCV, VS Code  
 Hardware: Jetson Nano, Raspberry Pi, ESP32, Arduino
 ```
