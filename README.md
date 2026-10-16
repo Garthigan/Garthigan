@@ -29,7 +29,7 @@ Hardware: Jetson Nano, Raspberry Pi, ESP32, Arduino
 
 - 📧 Email: [garthigank.25@cse.mrt.ac.lk](mailto:garthigank.25@cse.mrt.ac.lk)  
 - 💼 LinkedIn: [Garthigan](https://www.linkedin.com/in/garthigan-kumarasamy-1450891a9/)  
-- 🌐 Portfolio: [Garthigan.com](https://garthigan.github.io/)  
+- 🌐 Portfolio: [garthigan.github.io](https://garthigan.github.io/)  
 - 💬 WhatsApp / Telegram: *Available upon request*
 
 ---
